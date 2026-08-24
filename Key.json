@@ -14,7 +14,10 @@
     "DP-DFCHCQ": {
       "status": "approved",
       "max_devices": 2,
-      "expiry_date": "2026-08-25"
+      "expiry_date": "2026-08-25",
+      "hwid": [
+        "76e500af55daadc0"
+      ]
     }
   }
 }

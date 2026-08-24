@@ -10,5 +10,11 @@
       "spammer_hwid_2"
     ]
   },
-  "keys": {}
+  "keys": {
+    "DP-DFCHCQ": {
+      "status": "approved",
+      "max_devices": 2,
+      "expiry_date": "2026-08-25"
+    }
+  }
 }

@@ -11,5 +11,11 @@
       "76e500af55daadcd0"
     ]
   },
-  "keys": {}
+  "keys": {
+    "DP-B3ZDUR": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-24"
+    }
+  }
 }
